@@ -28,6 +28,7 @@ static long diff_in_us(struct timespec t1, struct timespec t2)
 
 
 
+
 int main(int argc, char *argv[])
 {
     struct timespec start, end;
